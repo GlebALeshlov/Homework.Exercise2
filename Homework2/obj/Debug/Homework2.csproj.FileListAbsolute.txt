@@ -1,0 +1,11 @@
+C:\Users\dimad\source\repos\Homework2\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\dimad\source\repos\Homework2\Homework2\bin\Debug\Homework2.exe
+C:\Users\dimad\source\repos\Homework2\Homework2\bin\Debug\Homework2.pdb
+C:\Users\dimad\source\repos\Homework2\Homework2\obj\Debug\Homework2.csproj.AssemblyReference.cache
+C:\Users\dimad\source\repos\Homework2\Homework2\obj\Debug\Homework2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimad\source\repos\Homework2\Homework2\obj\Debug\Homework2.Form1.resources
+C:\Users\dimad\source\repos\Homework2\Homework2\obj\Debug\Homework2.Properties.Resources.resources
+C:\Users\dimad\source\repos\Homework2\Homework2\obj\Debug\Homework2.csproj.GenerateResource.cache
+C:\Users\dimad\source\repos\Homework2\Homework2\obj\Debug\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\dimad\source\repos\Homework2\Homework2\obj\Debug\Homework2.exe
+C:\Users\dimad\source\repos\Homework2\Homework2\obj\Debug\Homework2.pdb
